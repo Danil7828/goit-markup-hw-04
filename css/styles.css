@@ -78,11 +78,9 @@ button {
   text-decoration: none;
   padding-top: 24px;
   padding-bottom: 24px;
-}
-
-.site-item{
   position: relative;
 }
+
 
 .site-nav {
   list-style: none;
