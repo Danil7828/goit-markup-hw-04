@@ -80,11 +80,14 @@ button {
   padding-bottom: 24px;
 }
 
+.site-item{
+  position: relative;
+}
+
 .site-nav {
   list-style: none;
   display: flex;
   gap: 40px;
-  position: relative;
 }
 .studio-link:hover,
 .studio-link:focus {
