@@ -373,8 +373,10 @@ button {
   align-items: center;
 }
 
-.team-item-icon{
+.team-items-icons{
   padding-top: 6px;
+  width: 40px;
+  height: 40px;
 }
 
 .team-link-icon{
