@@ -392,9 +392,9 @@ button {
 .team-link-icon:focus{
   background-color: #404bbf;
 }
-.team-icon{
-  width: 16px;
-  height: 16px;
+.team-social-icon{
+  width: 40px;
+  height: 40px;
   fill: #f4f4fd;
 }
 img {
