@@ -392,8 +392,11 @@ button {
 .team-link-icon:focus{
   background-color: #404bbf;
 }
-
-
+.team-icon{
+  width: 16px;
+  height: 16px;
+  fill: #f4f4fd;
+}
 img {
   display: block;
 }
