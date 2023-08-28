@@ -365,6 +365,19 @@ button {
   gap: 24px;
 }
 
+.team-list-icons{
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  list-style: none;
+  align-items: center;
+}
+
+.team-item-icon{
+  padding-top: 6px;
+}
+
+
 img {
   display: block;
 }
