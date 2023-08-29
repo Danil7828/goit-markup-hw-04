@@ -373,7 +373,9 @@ button {
   align-items: center;
 }
 
-
+.team-item-icon{
+  list-style: none;
+}
 
 .team-link-icon:hover,
 .team-link-icon:focus{
