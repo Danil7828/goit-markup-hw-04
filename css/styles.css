@@ -366,11 +366,11 @@ button {
 
 }
 
-.team-list-icon{
+.team-social-icons{
   display: flex;
-  gap: 24px;
   justify-content: center;
-  list-style: none;
+  gap: 24px;
+  align-items: center;
 }
 
 
