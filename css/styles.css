@@ -383,7 +383,6 @@ button {
   border-radius: 50%;
   transition: background-color 0.3s;
   margin-top: 6px;
-  height: 100%;
 }
 
 .team-item-icon{
