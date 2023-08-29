@@ -365,7 +365,7 @@ button {
   gap: 24px;
 }
 
-.team-list-icons{
+.team-list-icon{
   display: flex;
   justify-content: center;
   gap: 24px;
@@ -387,14 +387,20 @@ button {
   height: 40px;
   
 }
+.team-item-icon{
+  width: 40px;
+  height: 40px;
+}
+.team-social-icon{
+  width: 40px;
+  height: 40px;
+}
 
 .team-link-icon:hover,
 .team-link-icon:focus{
   background-color: #404bbf;
 }
 .team-social-icon{
-  width: 40px;
-  height: 40px;
   fill: #f4f4fd;
 }
 img {
