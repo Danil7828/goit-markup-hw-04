@@ -454,6 +454,6 @@ img {
   border-top: none;  
 }
 
-.portfolio-ul .work-item:hover .portfolio-text{
+.portfolio-text:hover{
   transform: translateY(0%);
 }
