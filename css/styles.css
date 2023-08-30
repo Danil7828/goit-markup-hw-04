@@ -509,3 +509,7 @@ img {
 .footer-icon-item{
   list-style: none;
 }
+
+.footer-icon{
+  height: 40px;
+}
