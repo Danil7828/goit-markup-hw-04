@@ -505,3 +505,8 @@ img {
   display: flex;
   gap: 16px;
 }
+
+.work-item .gallery-image {
+  width: 40px;
+  height: 40px;
+}
