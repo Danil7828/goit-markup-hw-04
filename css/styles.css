@@ -487,3 +487,7 @@ img {
   display: flex;
   align-items: baseline;
 }
+
+.footer-wrapper{
+  margin-right: 120px;
+}
