@@ -492,3 +492,12 @@ img {
   margin-right: 120px;
   margin-left: 156px;
 }
+
+.footer-icon-text{
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  margin-bottom: 16px;
+}
