@@ -482,3 +482,8 @@ img {
 .work-item:hover .gallery-overley-text {
   transform: translateY(0%);
 }
+
+.footer-container{
+  display: flex;
+  align-items: baseline;
+}
