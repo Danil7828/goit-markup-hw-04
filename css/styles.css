@@ -453,3 +453,7 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;  
 }
+
+.portfolio-ul .work-item:hover .portfolio-text{
+  transform: translateY(0%);
+}
