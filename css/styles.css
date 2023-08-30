@@ -500,3 +500,8 @@ img {
   color: #FFFFFF;
   margin-bottom: 16px;
 }
+
+.footer-icon-list{
+  display: flex;
+  gap: 16px;
+}
