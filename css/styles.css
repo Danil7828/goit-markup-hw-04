@@ -510,6 +510,7 @@ img {
   list-style: none;
 }
 
-.footer-icon{
+.footer-icon-item{
+  width: 40px;
   height: 40px;
 }
