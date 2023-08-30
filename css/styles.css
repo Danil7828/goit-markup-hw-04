@@ -530,3 +530,7 @@ img {
 .footer-icon-link:focus {
   background-color: #31d0aa;
 }
+
+.footer-icon{
+  fill: #f4f4fd;
+}
